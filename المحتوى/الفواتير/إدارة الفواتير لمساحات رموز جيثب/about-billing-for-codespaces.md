@@ -1,8 +1,10 @@
 ---
-title: About billing for Codespaces
+pa
+العنوان: حول إعداد الفواتير لـ yp Codespacesh
 shortTitle: About billing
-intro: 'View pricing and see how to manage {% data variables.product.prodname_codespaces %} billing for your organization.'
-permissions: 'To manage billing for Codespaces for an organization, you must be an organization owner or a billing manager.'
+ba
+مقدمة: "اعرض الأسعار وتعرّف على كيفية إدارة فواتير {٪ data variables.product.prodname_codespaces٪} لمؤسستك
+إدارة: "إدارة الفوترة لـ Codespaces لمقاومة هذه البرامج"
 versions:
   fpt: '*'
   ghec: '*'
